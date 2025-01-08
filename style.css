@@ -1,0 +1,227 @@
+* {
+    margin: 0%;
+}
+
+nav{
+   
+    background-color: #3D3D3D;
+    width: 100%;
+    height: 100px;
+ 
+}
+.ul-cls{
+    list-style-type: none;
+    float: right; 
+    color: white;
+    margin: 35px 0px 0px 0px;
+
+}
+
+.li-cls{
+    width: fit-content;
+    float: left; 
+    margin-right: 1rem;
+    font-size: 23px;
+
+} 
+a{
+    text-decoration: none;
+    color: #FFFAEC; 
+}
+
+
+.profile {
+    text-align: center; 
+    height: 350px; 
+    background-color: #F5ECD5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+.profile img{
+    border-radius: 50%;
+}
+
+.intro{
+    margin-top: 5px;
+}
+.desi {
+    margin-top: 5px;
+}
+
+.nav{
+   width: 100%;
+   height: 50px;
+   color: white;
+
+}
+
+
+/*div{
+    background-color: peachpuff;
+} */
+
+#ame{
+    float: right; 
+    background-color: black;
+    color: white;
+    /* rotate: 270deg; */
+    width: 2%;
+    height: 364px;
+    word-break: break-all;
+    padding: 0px 15px;
+    font-size: 30px;
+    text-align: center;
+} 
+#me{
+    margin-top: 50px;
+}
+
+#ame #me span{
+    rotate: 270deg;
+    display: block;
+}
+
+.about{
+    font-size: 25px;
+    width: 95%;
+    display: inline-block;
+    text-align: justify;
+    background-color: #c6dcba;
+    padding: 5px 18px 5px 5px;
+
+}
+
+#eduma{
+    float: right; 
+    background-color: black;
+    color: white;
+    width: 2%;
+    height: 364px;
+    word-break: break-all;
+    padding: 0px 15px;
+    font-size: 31px;
+    text-align: center;
+    /* margin-top: 50px; */
+
+}
+/* #eduma{
+    margin-top: 50px;
+} */
+
+#edu span{
+    rotate: 270deg;
+    display: block;
+}
+#edu{
+    margin-top: 20px;
+}
+
+.tabh{
+    height: 364px;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    /* margin-top: 40px; */
+    /* margin-bottom: 40px; */
+    font-size: 25px;
+    padding: 30px 0px;
+    
+}
+
+#skills{
+    float: right;
+    background-color: black;
+    color: white;
+    height: 442.5px;
+    width: 2%;
+    word-break: break-all;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+#ski{
+    margin-top: 110px;
+}
+#ski span{
+    rotate: 270deg;
+    display: block;
+} 
+
+.ski1{
+    font-size: 25px;
+    background-image: radial-gradient(beige,white,pink);
+ 
+  
+}
+
+.highlight{
+    color: red;
+}
+
+#expp{
+    float: right;
+    background-color: black;
+    color: white;
+    word-break: break-all;
+    text-align: center;
+    height: 413px;
+    width: 2%;
+    font-size: 30px;
+    padding: 0px 15px;
+}
+
+#expp span{
+    rotate: 270deg;
+    display: block;
+}
+#exp{
+    margin-top: 30px;
+}
+
+.pro{
+    font-size: 25px;
+    list-style-type: none;
+    background-image:linear-gradient(#FFF2E1,#EAD8C0, #d1bb9e);
+}
+#cons{
+    float: right;
+    background-color: black;
+    color: white;
+    height: 250px;
+    width: 2%;
+    word-break: break-all;
+    font-size: 27px;
+    text-align: center;
+    padding: 0px 15px;
+}
+#cons span{
+    rotate: 270deg;
+    display: block;
+}
+#con{
+    margin-top: 15px;
+}
+
+.con2{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    font-size: 30px;
+    padding: 90px 0px 0px 0px;
+
+
+}
+.con2 a:hover{
+    color: green;
+}
+
+
+
+
+
+
